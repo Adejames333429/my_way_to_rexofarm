@@ -30,7 +30,7 @@ class LoginPage extends StatelessWidget {
               const SizedBox(height: 50),
               // welcome back, you have been missed!
               Text(
-                'Welcome back, you\'ve been missed!',
+                'Welcome, Sign in or Register here!',
                 style: TextStyle(
                   color: Colors.grey[700],
                   fontSize: 16,
